@@ -1,0 +1,87 @@
+{
+  "android": {
+    "Mobile_App_Checkout_001": {
+      "emailLogin": "81707967091",
+      "senhaLogin": "fcamara",
+      "mensagem": "Pedido realizado com sucesso!",
+      "reportPath": "src/test/java/br/com//reports/Checkout/Checkout_001"
+    },
+    "Mobile_App_Checkout_002": {
+      "emailLogin": "81707967091",
+      "senhaLogin": "fcamara",
+      "mensagem": "Pedido realizado com sucesso!",
+      "numeroCartao": "1111222244445555",
+      "nomeImpresso": "Beltrano da Silva",
+      "vencimento": "12/29",
+      "codSeg": "254",
+      "reportPath": "src/test/java/br/com//reports/Checkout/Checkout_002"
+    },
+    "Mobile_App_Checkout_003": {
+      "emailLogin": "81707967091",
+      "senhaLogin": "fcamara",
+      "mensagem": "Pedido realizado com sucesso!",
+      "reportPath": "src/test/java/br/com//reports/Checkout/Checkout_003"
+    },
+    "Mobile_App_Checkout_004": {
+      "emailLogin": "batman3_desk@batman.com",
+      "senhaLogin": "Aut123456&",
+      "mensagem": "Pedido realizado com sucesso!",
+      "numerocartao": "",
+      "nomeImpresso": "",
+      "vencimento": "",
+      "codseguranca": "",
+      "reportPath": "src/test/java/br/com//reports/Checkout/Checkout_004"
+    },
+    "Mobile_App_Checkout_005": {
+      "emailLogin": "batman3_desk@batman.com",
+      "senhaLogin": "Aut123456&",
+      "mensagem": "Pedido realizado com sucesso!",
+      "numerocartao": "",
+      "senha": "",
+      "reportPath": "src/test/java/br/com//reports/Checkout/Checkout_005"
+    },
+    "Mobile_App_Checkout_006": {
+      "emailLogin": "batman3_desk@batman.com",
+      "senhaLogin": "Aut123456&",
+      "mensagem": "Pedido realizado com sucesso!",
+      "numerocartao": "",
+      "nomeImpresso": "",
+      "vencimento": "",
+      "codseguranca": "",
+      "reportPath": "src/test/java/br/com//reports/Checkout/Checkout_006"
+    },
+    "Mobile_App_Checkout_007": {
+      "emailLogin": "batman3_desk@batman.com",
+      "senhaLogin": "Aut123456&",
+      "mensagem": "Pedido realizado com sucesso!",
+      "numerocartao": "",
+      "codigoseguranca": "",
+      "reportPath": "src/test/java/br/com//reports/Checkout/"
+    },
+    "Mobile_App_Checkout_008": {
+      "emailLogin": "batman3_desk@batman.com",
+      "senhaLogin": "Aut123456&",
+      "mensagem": "Pedido realizado com sucesso!",
+      "reportPath": "src/test/java/br/com//reports/Checkout/"
+    },
+    "Mobile_App_Checkout_009": {
+      "emailLogin": "batman3_desk@batman.com",
+      "senhaLogin": "Aut123456&",
+      "mensagem": "Pedido realizado com sucesso!",
+      "reportPath": "src/test/java/br/com//reports/Checkout/"
+    },
+    "Mobile_App_Checkout_010": {
+      "emailLogin": "batman3_desk@batman.com",
+      "senhaLogin": "Aut123456&",
+      "mensagem": "Pedido realizado com sucesso!",
+      "reportPath": "src/test/java/br/com//reports/Checkout/"
+    },
+    "Mobile_App_Checkout_011": {
+      "emailLogin": "batman3_desk@batman.com",
+      "senhaLogin": "Aut123456&",
+      "numeroCupom": "123456789",
+      "mensagem": "Pedido realizado com sucesso!",
+      "reportPath": "src/test/java/br/com//reports/Checkout/"
+    }
+  }
+}

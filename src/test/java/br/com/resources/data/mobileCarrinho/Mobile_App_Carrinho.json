@@ -1,0 +1,107 @@
+{
+  "android": {
+    "Mobile_App_Sacola_001": {
+      "mensagem": "Ótimo! Agora o frete é por nossa conta",
+      "reportPath": "src/test/java/br/com//reports/Sacola/001-"
+    },
+    "Mobile_App_Sacola_002": {
+      "mensagem": "O desconto é válido somente para produtos vendidos e entregues pela Lojas .",
+      "reportPath": "src/test/java/br/com//reports/Sacola/002-"
+    },
+    "Mobile_App_Sacola_003": {
+      "mensagem": "Ótimo! Agora o frete é por nossa conta",
+      "reportPath": "src/test/java/br/com//reports/Sacola/003-"
+    },
+    "Mobile_App_Sacola_004": {
+      "mensagem": "Com mais R$",
+      "reportPath": "src/test/java/br/com//reports/Sacola/004-"
+    },
+    "Mobile_App_Sacola_005": {
+      "mensagem": "Ótimo! Agora o frete é por nossa conta",
+      "reportPath": "src/test/java/br/com//reports/Sacola/005-"
+    },
+    "Mobile_App_Sacola_007": {
+      "mensagem": "Com mais R$",
+      "reportPath": "src/test/java/br/com//reports/Sacola/007-"
+    },
+    "Mobile_App_Sacola_008": {
+      "mensagem": "2",
+      "reportPath": "src/test/java/br/com//reports/Sacola/008-"
+    },
+    "Mobile_App_Sacola_009": {
+      "reportPath": "src/test/java/br/com//reports/Sacola/009-"
+    },
+    "Mobile_App_Sacola_0010": {
+      "mensagem": "Com mais R$",
+      "reportPath": "src/test/java/br/com//reports/Sacola/010-"
+    },
+    "Mobile_App_Sacola_011": {
+      "mensagem": "Seu Carrinho está vazia",
+      "reportPath": "src/test/java/br/com//reports/Sacola/011-"
+    },
+    "Mobile_App_Sacola_012": {
+      "CEP": "06763015",
+      "mensagem": "Entrega a partir de",
+      "reportPath": "src/test/java/br/com//reports/Sacola/012-"
+    },
+    "Mobile_App_Sacola_013": {
+      "mensagem": "Com mais R$",
+      "reportPath": "src/test/java/br/com//reports/Sacola/013-"
+    },
+    "Mobile_App_Sacola_014": {
+      "reportPath": "src/test/java/br/com//reports/Sacola/014-"
+    },
+    "ios": {
+      "Mobile_App_Sacola_001": {
+        "mensagem": "Ótimo! Agora o frete é por nossa conta",
+        "reportPath": "src/test/java/br/com//reports/Sacola/"
+      },
+      "Mobile_App_Sacola_002": {
+        "mensagem": "O desconto é válido somente para produtos vendidos e entregues pela Lojas .",
+        "reportPath": "src/test/java/br/com//reports/Sacola/"
+      },
+      "Mobile_App_Sacola_003": {
+        "mensagem": "Ótimo! Agora o frete é por nossa conta",
+        "reportPath": "src/test/java/br/com//reports/Sacola/"
+      },
+      "Mobile_App_Sacola_004": {
+        "mensagem": "Com mais R$",
+        "reportPath": "src/test/java/br/com//reports/Sacola/"
+      },
+      "Mobile_App_Sacola_005": {
+        "mensagem": "Ótimo! Agora o frete é por nossa conta",
+        "reportPath": "src/test/java/br/com//reports/Sacola/"
+      },
+      "Mobile_App_Sacola_007": {
+        "mensagem": "Com mais R$",
+        "reportPath": "src/test/java/br/com//reports/Sacola/"
+      },
+      "Mobile_App_Sacola_008": {
+        "mensagem": "2",
+        "reportPath": "src/test/java/br/com//reports/Sacola/"
+      },
+      "Mobile_App_Sacola_009": {
+        "reportPath": "src/test/java/br/com//reports/Sacola/"
+      },
+      "Mobile_App_Sacola_0010": {
+        "mensagem": "Com mais R$",
+        "reportPath": "src/test/java/br/com//reports/Sacola/"
+      },
+      "Mobile_App_Sacola_011": {
+        "mensagem": "Com mais R$",
+        "reportPath": "src/test/java/br/com//reports/Sacola/"
+      },
+      "Mobile_App_Sacola_012": {
+        "mensagem": "Com mais R$",
+        "reportPath": "src/test/java/br/com//reports/Sacola/"
+      },
+      "Mobile_App_Sacola_013": {
+        "mensagem": "Com mais R$",
+        "reportPath": "src/test/java/br/com//reports/Sacola/"
+      },
+      "Mobile_App_Sacola_014": {
+        "reportPath": "src/test/java/br/com//reports/Sacola/"
+      }
+    }
+  }
+}

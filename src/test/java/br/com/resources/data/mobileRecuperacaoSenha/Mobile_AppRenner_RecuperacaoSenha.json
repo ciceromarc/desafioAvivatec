@@ -1,0 +1,48 @@
+{
+  "android": {
+    "Mobile_App_RecuperacaoSenha_001": {
+      "CPF": "962.929.670-50",
+      "mensagem": "Enviado!",
+      "reportPath": "src/test/java/br/com//reports/RecuperacaoSenha/Android/RecuperacaoSenha_001 "
+    },
+    "Mobile_App_RecuperacaoSenha_002": {
+      "CPF": "345.436.464-57",
+      "mensagem": "CPF inválido",
+      "reportPath": "src/test/java/br/com//reports/RecuperacaoSenha/Android/RecuperacaoSenha_002 "
+    },
+    "Mobile_App_RecuperacaoSenha_003": {
+      "CPF": "408.214.400-55",
+      "mensagem": "CPF não encontrado.",
+      "reportPath": "src/test/java/br/com//reports/RecuperacaoSenha/Android/RecuperacaoSenha_003 "
+    },
+    "Mobile_App_RecuperacaoSenha_004": {
+      "email": "batman2_desk@batman.com",
+      "CPF": "005.380.390-60",
+      "mensagem": "Enviado!",
+      "reportPath": "src/test/java/br/com//reports/RecuperacaoSenha/Android/RecuperacaoSenha_004 "
+    }
+  },
+  "ios": {
+    "Mobile_App_RecuperacaoSenha_001": {
+      "CPF": "962.929.670-50",
+      "mensagem": "Enviado!",
+      "reportPath": "src/test/java/br/com//reports/RecuperacaoSenha/"
+    },
+    "Mobile_App_RecuperacaoSenha_002": {
+      "CPF": "345.436.464-57",
+      "mensagem": "Campo inválido",
+      "reportPath": "src/test/java/br/com//reports/RecuperacaoSenha/"
+    },
+    "Mobile_App_RecuperacaoSenha_003": {
+      "CPF": "408.214.400-55",
+      "mensagem": "CPF não encontrado.",
+      "reportPath": "src/test/java/br/com//reports/RecuperacaoSenha/"
+    },
+    "Mobile_App_RecuperacaoSenha_004": {
+      "email": "batman2_desk@batman.com",
+      "CPF": "005.380.390-60",
+      "mensagem": "Enviado!",
+      "reportPath": "src/test/java/br/com//reports/RecuperacaoSenha/"
+    }
+  }
+}

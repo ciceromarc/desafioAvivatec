@@ -1,0 +1,72 @@
+{
+  "android": {
+    "Mobile_App_Login_001": {
+      "email": "batman3_desk@batman.com",
+      "senha": "Aut123456&",
+      "mensagem": "Olá, Batman",
+      "reportPath": "src/test/java/br/com//reports/Login/Android/Login_001 "
+    },
+    "Mobile_App_Login_002": {
+      "email": "batman3_desk@batman.com",
+      "senha": "123456&",
+      "mensagem": "Combinação de usuário e senha inválida, tente novamente.",
+      "reportPath": "src/test/java/br/com//reports/Login/Android/Login_002 "
+    },
+    "Mobile_App_Login_003": {
+      "email": "user_inexistente@teste.com.br",
+      "senha": "123456&",
+      "mensagem": "Combinação de usuário e senha inválida, tente novamente.",
+      "reportPath": "src/test/java/br/com//reports/Login/Android/Login_003 "
+    },
+    "Mobile_App_Login_004": {
+      "email": " ",
+      "senha": " ",
+      "mensagem1": "Campo inválido",
+      "mensagem2": "A senha deve ter no mínimo 6 caracteres",
+      "reportPath": "src/test/java/br/com//reports/Login/Android/Login_004 "
+    },
+    "Mobile_App_Login_005": {
+      "mensagem": "Sign in",
+      "reportPath": "src/test/java/br/com//reports/Login/Android/Login_005 "
+    },
+    "Mobile_App_Login_006": {
+      "mensagem": "Log into your Facebook account to connect to Lojas ",
+      "reportPath": "src/test/java/br/com//reports/Login/Android/Login_006 "
+    }
+  },
+  "ios": {
+    "Mobile_App_Login_001": {
+      "email": "batman3_desk@batman.com",
+      "senha": "Aut123456&",
+      "mensagem": "Olá, Batman",
+      "reportPath": "src/test/java/br/com//reports/Login/IOS/Login_001-"
+    },
+    "Mobile_App_Login_002": {
+      "email": "batman3_desk@batman.com",
+      "senha": "123456&",
+      "mensagem": "Combinação de usuário e senha inválida, tente novamente.",
+      "reportPath": "src/test/java/br/com//reports/Login/IOS/Login_002-"
+    },
+    "Mobile_App_Login_003": {
+      "email": "user_teste@teste.com.br",
+      "senha": "123456&",
+      "mensagem": "Combinação de usuário e senha inválida, tente novamente.",
+      "reportPath": "src/test/java/br/com//reports/Login/IOS/Login_003-"
+    },
+    "Mobile_App_Login_004": {
+      "email": " ",
+      "senha": " ",
+      "mensagem1": "CPF/E-mail inválido",
+      "mensagem2": "Senha inválida",
+      "reportPath": "src/test/java/br/com//reports/Login/IOS/Login_004-"
+    },
+    "Mobile_App_Login_005": {
+      "mensagem": "Sign in",
+      "reportPath": "src/test/java/br/com//reports/Login/IOS/Login_005-"
+    },
+    "Mobile_App_Login_006": {
+      "mensagem": "Log into your Facebook account to connect to Lojas ",
+      "reportPath": "src/test/java/br/com//reports/Login/IOS/Login_006-"
+    }
+  }
+}

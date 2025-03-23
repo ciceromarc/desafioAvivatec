@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="174.49">
+<testcase classname="Validar Recuperacao de Senha" name="Realizar recuperacao de senha com email cadastrado" time="174.233">
+<system-out><![CDATA[Dado que estou na pagina inicio do APP ...............................passed
+E clico na opcao de Menu....................................................passed
+E sou direcionado a pagina de login.........................................passed
+Quando informar no campo de usuario um email valido.........................passed
+E clicar na opcao de esqueci a minha senha..................................passed
+E preencher o CPF cadastrado na mesma conta do email informado..............passed
+E clico no botao de confirmacao esqueci minha senha.........................passed
+Entao deve abrir uma nova janela confirmando o envio de email para redefinicao de senha por email.passed
+]]></system-out>
+</testcase>
+</testsuite>

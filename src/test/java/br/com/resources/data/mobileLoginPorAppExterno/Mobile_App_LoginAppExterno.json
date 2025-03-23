@@ -1,0 +1,26 @@
+{
+  "android": {
+    "Mobile_App_Login_007": {
+      "mensagem": "Log into your Facebook account to connect to Lojas ",
+      "produto": "camisa",
+      "reportPath": "src/test/java/br/com//reports/Login/Android/Login_007 "
+    },
+    "Mobile_App_Login_008": {
+      "mensagem": "Sign in",
+      "produto": "camisa",
+      "reportPath": "src/test/java/br/com//reports/Login/Android/Login_008 "
+    }
+  },
+  "ios": {
+    "Mobile_App_Login_007": {
+      "mensagem": "Log into your Facebook account to connect to Lojas ",
+      "reportPath": "src/test/java/br/com//reports/Login/MobileLoginPorAppExterno/",
+      "produto": "camisa"
+    },
+    "Mobile_App_Login_008": {
+      "mensagem": "Sign in",
+      "reportPath": "src/test/java/br/com//reports/Login/MobileLoginPorAppExterno/",
+      "produto": "camisa"
+    }
+  }
+}

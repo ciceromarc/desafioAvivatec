@@ -1,0 +1,144 @@
+{
+  "android": {
+    "Mobile_App_MinhaConta_001": {
+      "emailLogin": "batman3_desk@batman.com",
+      "senhaLogin": "Aut123456&",
+      "nome": "Batman",
+      "sobrenome": "alteracao",
+      "mensagem": "Seus dados foram atualizados com sucesso!",
+      "reportPath": "src/test/java/br/com//reports/MinhaConta/Android/MinhaConta_001 "
+    },
+    "Mobile_App_MinhaConta_002": {
+      "emailLogin": "batman3_desk@batman.com",
+      "senhaLogin": "Aut123456&",
+      "senha": "Aut123457&",
+      "novaSenha": "123456",
+      "confirmacaoSenha": "123456",
+      "mensagem": "Valor incorreto para senha anterior. ",
+      "reportPath": "src/test/java/br/com//reports/MinhaConta/Android/MinhaConta_002 "
+    },
+    "Mobile_App_MinhaConta_003": {
+      "emailLogin": "batman3_desk@batman.com",
+      "senhaLogin": "Aut123456&",
+      "senha": "Aut123456&",
+      "novaSenha": "123456",
+      "confirmacaoSenha": "123457",
+      "mensagem": "As senhas não são iguais. Verifique e tente de novo.",
+      "reportPath": "src/test/java/br/com//reports/MinhaConta/Android/MinhaConta_003 "
+    },
+    "Mobile_App_MinhaConta_004": {
+      "emailLogin": "batman3_desk@batman.com",
+      "senhaLogin": "Aut123456&",
+      "senha": "Aut123456&",
+      "novaSenha": "Aut123456&",
+      "confirmacaoSenha": "Aut123456&",
+      "mensagem": "Senha atualizada com sucesso.",
+      "reportPath": "src/test/java/br/com//reports/MinhaConta/Android/MinhaConta_004 "
+    },
+    "Mobile_App_MinhaConta_005": {
+      "emailLogin": "batman3_desk@batman.com",
+      "senhaLogin": "Aut123456&",
+      "senha": "Aut123456&",
+      "numero": "10",
+      "mensagem": "Endereço alterado com sucesso",
+      "reportPath": "src/test/java/br/com//reports/MinhaConta/Android/MinhaConta_005 "
+    },
+    "Mobile_App_MinhaConta_006": {
+      "emailLogin": "batman3_desk@batman.com",
+      "senhaLogin": "Aut123456&",
+      "reportPath": "src/test/java/br/com//reports/MinhaConta/Android/MinhaConta_006 "
+    },
+    "Mobile_App_MinhaConta_007": {
+      "emailLogin": "batman3_desk@batman.com",
+      "senhaLogin": "Aut123456&",
+      "senha": "Aut123456&",
+      "numero": "10",
+      "mensagem": "Adicione agora e receba as melhores ofertas e condições de frete para sua região.",
+      "reportPath": "src/test/java/br/com//reports/MinhaConta/Android/MinhaConta_007 "
+    },
+    "Mobile_App_MinhaConta_008": {
+      "emailLogin": "batman3_desk@batman.com",
+      "senhaLogin": "Aut123456&",
+      "CEP": "095149-349",
+      "endereco": "Vinte e Três",
+      "bairro": "São Cristóvão",
+      "numero": "10",
+      "mensagem": "Novo endereço adicionado com sucesso",
+      "reportPath": "src/test/java/br/com//reports/MinhaConta/Android/MinhaConta_008 "
+    },
+    "Mobile_App_MinhaConta_009": {
+      "mensagem": "Acesse sua conta.",
+      "reportPath": "src/test/java/br/com//reports/MinhaConta/Android/MinhaConta_009 "
+    },
+    "ios": {
+      "Mobile_App_MinhaConta_001": {
+        "emailLogin": "batman3_desk@batman.com",
+        "senhaLogin": "Aut123456&",
+        "nome": "Batman",
+        "sobrenome": "alteracao",
+        "mensagem": "Seus dados foram atualizados com sucesso!",
+        "reportPath": "src/test/java/br/com//reports/MinhaConta/"
+      },
+      "Mobile_App_MinhaConta_002": {
+        "emailLogin": "batman3_desk@batman.com",
+        "senhaLogin": "Aut123456&",
+        "senha": "Aut123457&",
+        "novaSenha": "123456",
+        "mensagem": "Valor incorreto para senha anterior. ",
+        "reportPath": "src/test/java/br/com//reports/MinhaConta/"
+      },
+      "Mobile_App_MinhaConta_003": {
+        "emailLogin": "batman3_desk@batman.com",
+        "senhaLogin": "Aut123456&",
+        "senha": "Aut123456&",
+        "novaSenha": "123456",
+        "confirmacaoSenha": "123457",
+        "mensagem": "As senhas não são iguais. Verifique e tente de novo.",
+        "reportPath": "src/test/java/br/com//reports/MinhaConta/"
+      },
+      "Mobile_App_MinhaConta_004": {
+        "emailLogin": "batman3_desk@batman.com",
+        "senhaLogin": "Aut123456&",
+        "senha": "Aut123456&",
+        "novaSenha": "Aut123456&",
+        "mensagem": "Senha atualizada com sucesso.",
+        "reportPath": "src/test/java/br/com//reports/MinhaConta/"
+      },
+      "Mobile_App_MinhaConta_005": {
+        "emailLogin": "batman3_desk@batman.com",
+        "senhaLogin": "Aut123456&",
+        "senha": "Aut123456&",
+        "numero": "10",
+        "mensagem": "Endereço alterado com sucesso",
+        "reportPath": "src/test/java/br/com//reports/MinhaConta/"
+      },
+      "Mobile_App_MinhaConta_006": {
+        "emailLogin": "batman3_desk@batman.com",
+        "senhaLogin": "Aut123456&",
+        "reportPath": "src/test/java/br/com//reports/MinhaConta/"
+      },
+      "Mobile_App_MinhaConta_007": {
+        "emailLogin": "batman3_desk@batman.com",
+        "senhaLogin": "Aut123456&",
+        "senha": "Aut123456&",
+        "numero": "10",
+        "mensagem": "Adicione agora e receba as melhores ofertas e condições de frete para sua região.",
+        "reportPath": "src/test/java/br/com//reports/MinhaConta/"
+      },
+      "Mobile_App_MinhaConta_008": {
+        "emailLogin": "batman3_desk@batman.com",
+        "senhaLogin": "Aut123456&",
+        "CEP": "095149-349",
+        "endereco": "Vinte e Três",
+        "bairro": "São Cristóvão",
+        "numero": "10",
+        "mensagem": "Novo endereço adicionado com sucesso",
+        "reportPath": "src/test/java/br/com//reports/MinhaConta/"
+      },
+      "Mobile_App_MinhaConta_009": {
+        "mensagem": "Acesse sua conta.",
+        "reportPath": "src/test/java/br/com//reports/MinhaConta/"
+      }
+    }
+  }
+}
